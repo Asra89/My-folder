@@ -1,5 +1,5 @@
 
-# RF Test Manager
+# My Folder
 Simple project to learn Git + VS Code + GitHub.
 
 ## Files
